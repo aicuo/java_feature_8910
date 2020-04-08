@@ -6,9 +6,8 @@ import lombok.Data;
 import java.util.List;
 
 @Data
-@AllArgsConstructor
 public class Site {
-    private int siteId;
-    private String siteName;
-    private List<Ne> neList;
+    private int siteId; // 站点ID
+    private String siteName; // 站点名
+    private List<Ne> neList; // 站点下网元集合
 }

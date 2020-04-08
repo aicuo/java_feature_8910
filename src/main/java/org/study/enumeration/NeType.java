@@ -1,4 +1,4 @@
-package org.study.model;
+package org.study.enumeration;
 
 public enum NeType {
     RTN950("RTN 950"),
