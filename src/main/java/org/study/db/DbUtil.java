@@ -7,7 +7,7 @@ import org.study.model.Site;
 
 import java.util.List;
 
-public class DbUtil {
+public final class DbUtil {
     public static List<Site> listSite() {
         return null;
     }

@@ -6,5 +6,5 @@ import lombok.Data;
 public class Port {
     private int portId; // 端口ID
     private int portIndex; // 端口索引
-    private String portLevel; // 端口速率(FE,GE,10GE)
+    private String portLevel; // 端口速率
 }
